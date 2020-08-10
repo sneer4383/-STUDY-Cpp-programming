@@ -1,0 +1,4 @@
+﻿  cpp_ch3_2_1_RacingCarClassBass.cpp
+C:\Users\sneer\source\repos\cpp_ch3_2_1_RacingCarClassBass\cpp_ch3_2_1_RacingCarClassBass\cpp_ch3_2_1_RacingCarClassBass.cpp(28,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+  cpp_ch3_2_1_RacingCarClassBass.vcxproj -> C:\Users\sneer\source\repos\cpp_ch3_2_1_RacingCarClassBass\Debug\cpp_ch3_2_1_RacingCarClassBass.exe
